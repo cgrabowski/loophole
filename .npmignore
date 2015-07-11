@@ -3,6 +3,7 @@ script
 src
 *.coffee
 .npmignore
+.gitignore
 .DS_Store
 npm-debug.log
 .travis.yml
